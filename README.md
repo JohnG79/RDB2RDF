@@ -1,4 +1,6 @@
 # RDB2RDF
+Relational Database to Resource Description Framework.
+
 Resource / Reference for JXTreeTable from RDB schema.
 
 
